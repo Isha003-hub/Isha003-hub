@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! i'm Isha👋
+👨‍💻 Web Development Student @ Humber College | 👨‍💻 Bachelors of Computer Applications | 🌱 Learning JavaScript, React, and Front-End Technologies
+
+
 
 <!--
 **Isha003-hub/Isha003-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
