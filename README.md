@@ -13,3 +13,7 @@ Student: Enhancing my web dev skills in Canada
 💥 **Next Steps**
 Always learning, always building. Let’s collaborate!
 
+💡 Let's connect and build something awesome!
+
+
+
