@@ -1,19 +1,15 @@
-## Hi! i'm Isha👋
-👨‍💻 Web Development Student @ Humber College | 👨‍💻 Bachelors of Computer Applications | 🌱 Learning JavaScript, React, and Front-End Technologies
+## 👋 Hey there, I’m Isha shah
+I started my tech journey at **Chimanbhai Patel Institution of Technology,** where I graduated with a **BCA - Bacholer of compuyer applications** and a hunger to build things that matter. Now, I’m taking it to the next level, studying **Web Development** at **Humber North Campus, Toronto**, where code meets creativity.
 
+🔧 **Skills & Focus**
+Crafting interactive, user-friendly websites
+Exploring JavaScript, React, Node.js, and more
+Learning JavaScript, React, and Front-End Technologies
 
+🎯 **Path So Far**
+Graduate: Built my coding foundation with a BCA
+Student: Enhancing my web dev skills in Canada
 
-<!--
-**Isha003-hub/Isha003-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💥 **Next Steps**
+Always learning, always building. Let’s collaborate!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
