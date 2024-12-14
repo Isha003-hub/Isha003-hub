@@ -1,4 +1,4 @@
-<img src="![isha](https://github.com/user-attachments/assets/696c86fe-9e03-40a0-a0b0-614fe49f128d)" alt="This is my vibe. Welcome to my Github Account!" width="900" height="350">
+![Header Image](/img/isha.png)
 ## 👋 Hey there, I’m Isha shah
 I started my tech journey at **Chimanbhai Patel Institution of Technology,** where I graduated with a **BCA - Bacholer of computer applications** and a hunger to build things that matter. Now, I’m taking it to the next level, studying **Web Development** at **Humber North Campus, Toronto**, where code meets creativity.
 
